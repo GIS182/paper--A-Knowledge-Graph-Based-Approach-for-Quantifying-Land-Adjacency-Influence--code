@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061451.svg)](https://doi.org/10.5281/zenodo.18061451)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18065686.svg)](https://doi.org/10.5281/zenodo.18065686)
 
 
 # A Knowledge Graph-Based Method for Measuring Land Adjacency Influence from Time-Series Land-Use Data
